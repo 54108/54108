@@ -1,5 +1,6 @@
 #  🙋 Hello
   
+<table>
 <tr><td>
 
 ### 🤺 About Me
@@ -20,8 +21,9 @@
 
 </div>
 
-<tr>
-<td>
+<tr><td>
+
+<table>
 
 ### 🤔 My Github Stats
 
