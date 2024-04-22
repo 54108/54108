@@ -21,3 +21,13 @@
 </div>
 
 <table>
+
+<tr>
+<td>
+
+### 🤔 My Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=54108&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=54108&layout=compact&theme=tokyonight" />
+</div>
