@@ -20,8 +20,6 @@
 
 </div>
 
-<table>
-
 <tr>
 <td>
 
