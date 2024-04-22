@@ -31,3 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=54108&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=54108&layout=compact&theme=tokyonight" />
 </div>
+
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
